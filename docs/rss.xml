@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title> | </title>
+    <link></link>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Personal blog of </description>
+    <language>en-us</language>
+    <pubDate>Mon, 03 Feb 2020 8:25:24 -05:00</pubDate>
+    <lastBuildDate>Mon, 03 Feb 2020 8:25:24 -05:00</ lastBuildDate >
+
+    <item>
+        <title>My First Post</title>
+        <link>/2020/01/31/myfirstpost.html</link>
+        <pubDate>Fri, 31 Jan 2020 0:00:00 </pubDate>
+        <author> ()</author>
+        <guid isPermaLink="true">/2020/01/31/myfirstpost.html</guid>
+        <description>&lt;h2&gt;Hello world...&lt;/h2&gt;
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-cs&quot;&gt;static void Main() 
+{
+    Console.WriteLine(&amp;quot;Hello World!&amp;quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is my first post on the site!&lt;/p&gt;</description>
+    </item>
+    <item>
+        <title>My First Post</title>
+        <link>/2020/01/30/myfirstpost.html</link>
+        <pubDate>Thu, 30 Jan 2020 0:00:00 </pubDate>
+        <author> ()</author>
+        <guid isPermaLink="true">/2020/01/30/myfirstpost.html</guid>
+        <description>&lt;h2&gt;Hello world...&lt;/h2&gt;
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-cs&quot;&gt;static void Main() 
+{
+    Console.WriteLine(&amp;quot;Hello World!&amp;quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is my first post on the site!&lt;/p&gt;</description>
+    </item>
+
+  </channel> 
+</rss>
